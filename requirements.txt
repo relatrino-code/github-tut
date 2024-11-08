@@ -1,0 +1,8 @@
+Python
+ML
+DS
+DA
+SQL
+Spark
+Excel
+Tableau
